@@ -1,1 +1,6 @@
-
+data/
+*.h5
+*.tflite
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
